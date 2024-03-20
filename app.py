@@ -8,7 +8,7 @@ def hello_world():
 
 @app.route("/name")
 def name():
-    return "Meharsh"
+    return "Ansh"
 
 @app.route("/age")
 def age():
